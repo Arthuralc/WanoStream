@@ -1,0 +1,1263 @@
+1
+00:00:05,905 --> 00:00:07,805
+<i>Il y a plus d'un siècle,</i>
+
+2
+00:00:08,808 --> 00:00:11,368
+<i>est apparu</i>
+<i>le prédateur de l'humanité.</i>
+
+3
+00:00:16,683 --> 00:00:21,245
+<i>Il existe entre l'Homme et lui</i>
+<i>une différence de force si colossale,</i>
+
+4
+00:00:22,088 --> 00:00:25,751
+<i>que l'humanité a failli disparaître</i>
+<i>en très peu de temps.</i>
+
+5
+00:00:30,764 --> 00:00:32,322
+<i>Ceux qui ont survécu</i>
+
+6
+00:00:32,766 --> 00:00:36,725
+<i>ont bâti trois murs :</i>
+<i>Maria, Rose, et Sina,</i>
+
+7
+00:00:37,203 --> 00:00:40,263
+<i>qui leur ont permis de vivre</i>
+<i>près d'un siècle en paix.</i>
+
+8
+00:00:40,840 --> 00:00:41,898
+<i>Seulement...</i>
+
+9
+00:02:25,612 --> 00:02:30,344
+<i>Ce jour-là</i>
+<i>La chute de Shiganshina</i>
+
+10
+00:02:44,264 --> 00:02:45,993
+"Jusque-là,
+
+11
+00:02:46,399 --> 00:02:50,961
+"je fus âme misérable,
+et tout entière avare !
+
+12
+00:02:52,038 --> 00:02:53,938
+"Maintenant, comme tu vois,
+
+13
+00:02:54,374 --> 00:02:57,172
+"j'en suis ici punie !
+
+14
+00:02:59,245 --> 00:03:01,406
+"Ce que fait avarice
+ici se manifeste
+
+15
+00:03:02,415 --> 00:03:07,079
+"dans la purgation
+de nos âmes converties,
+
+16
+00:03:09,255 --> 00:03:14,955
+"et nulle peine plus amère
+n'a le mont !"
+
+17
+00:03:28,474 --> 00:03:29,406
+Non !
+
+18
+00:03:29,576 --> 00:03:30,474
+Pas ça !
+
+19
+00:03:30,977 --> 00:03:31,966
+Lâche-moi !
+
+20
+00:03:33,513 --> 00:03:34,912
+"Ô avarice !
+
+21
+00:03:35,215 --> 00:03:37,877
+"Tant à toi qui as attiré
+les miens vers toi,
+
+22
+00:03:38,551 --> 00:03:43,454
+"qu'ils ne se soucient plus
+de leur propre chair,
+
+23
+00:03:43,990 --> 00:03:47,289
+"que peux-tu faire de plus ?
+
+24
+00:03:51,531 --> 00:03:54,898
+"Ô avarice ! Tant à toi
+qui as attiré les miens vers..."
+
+25
+00:04:09,449 --> 00:04:10,473
+Qu'est-ce qui te prend ?
+
+26
+00:04:10,650 --> 00:04:13,346
+On était à deux doigts
+de sauver ma mère !
+
+27
+00:04:13,553 --> 00:04:15,418
+Tu n'aurais pas dû t'en mêler !
+
+28
+00:04:15,989 --> 00:04:17,354
+On allait sauver ma mère !
+
+29
+00:04:17,523 --> 00:04:19,047
+Ça suffit, maintenant !
+
+30
+00:04:20,627 --> 00:04:21,286
+Eren !
+
+31
+00:04:27,166 --> 00:04:28,133
+Eren.
+
+32
+00:04:31,104 --> 00:04:33,937
+Si tu n'as pas réussi
+à sauver ta mère,
+
+33
+00:04:34,507 --> 00:04:36,668
+c'est que tu n'en avais pas la force.
+
+34
+00:04:39,479 --> 00:04:40,309
+Et moi...
+
+35
+00:04:42,415 --> 00:04:45,441
+si je n'ai pas réussi
+à affronter le titan,
+
+36
+00:04:46,653 --> 00:04:48,450
+c'est que je n'en ai pas eu
+le courage !
+
+37
+00:05:00,266 --> 00:05:00,994
+Désolé.
+
+38
+00:05:14,280 --> 00:05:15,144
+<i>Ça recommence.</i>
+
+39
+00:05:29,696 --> 00:05:31,960
+Dépêchez-vous !
+Vers la porte intérieure !
+
+40
+00:05:33,066 --> 00:05:36,399
+Montez dans les bateaux
+et fuyez Shiganshina !
+
+41
+00:05:37,503 --> 00:05:40,370
+Grouillez-vous !
+Vous allez vous faire bouffer !
+
+42
+00:05:53,753 --> 00:05:55,744
+<i>Les zones saillantes</i>
+<i>comme Shiganshina,</i>
+
+43
+00:05:56,122 --> 00:05:58,488
+<i>bâties aux endroits cruciaux des murs,</i>
+
+44
+00:05:58,658 --> 00:06:01,252
+<i>étaient des leurres</i>
+<i>qui attiraient les titans,</i>
+
+45
+00:06:01,427 --> 00:06:03,520
+<i>afin de limiter</i>
+<i>les coûts de surveillance</i>
+
+46
+00:06:03,696 --> 00:06:05,425
+<i>ainsi que les effectifs.</i>
+
+47
+00:06:06,099 --> 00:06:07,464
+<i>En remplissant ce rôle,</i>
+
+48
+00:06:07,633 --> 00:06:11,592
+<i>Shiganshina a vu ses habitants</i>
+<i>devenir la cible des titans,</i>
+
+49
+00:06:11,771 --> 00:06:13,068
+<i>qui n'avaient d'autre choix</i>
+
+50
+00:06:13,239 --> 00:06:15,707
+<i>que s'évader</i>
+<i>par l'unique porte intérieure.</i>
+
+51
+00:06:19,112 --> 00:06:20,579
+Jetez tous vos affaires !
+
+52
+00:06:20,747 --> 00:06:22,305
+Il faut faire monter
+le plus de monde possible !
+
+53
+00:06:28,154 --> 00:06:30,054
+Armin, assieds-toi.
+
+54
+00:06:30,289 --> 00:06:32,587
+Mais Eren et Mikasa
+ne sont pas encore...
+
+55
+00:06:34,527 --> 00:06:35,391
+Ils sont là !
+
+56
+00:06:38,197 --> 00:06:38,754
+Eren ?
+
+57
+00:06:41,567 --> 00:06:43,159
+Laisse-les tranquilles
+pour le moment.
+
+58
+00:06:44,337 --> 00:06:47,238
+Les pauvres...
+Ils ont dû voir des choses terribles.
+
+59
+00:06:51,344 --> 00:06:53,710
+Allez, ne traînez pas !
+Magnez-vous !
+
+60
+00:06:54,280 --> 00:06:55,679
+Et les obus, ça vient ?
+
+61
+00:07:03,756 --> 00:07:04,745
+Magnez-vous !
+
+62
+00:07:05,124 --> 00:07:06,557
+Ils sont juste devant !
+
+63
+00:07:21,140 --> 00:07:23,802
+C'est pas vrai,
+ça ne peut pas arriver.
+
+64
+00:07:24,410 --> 00:07:26,810
+Mon Dieu, mon Dieu, mon Dieu...
+
+65
+00:07:27,180 --> 00:07:28,272
+Aidez-nous...
+
+66
+00:07:30,817 --> 00:07:32,250
+Qu'est-ce que vous faites ?
+
+67
+00:07:32,418 --> 00:07:34,249
+C'est complet, on s'en va !
+
+68
+00:07:34,887 --> 00:07:37,549
+Oh non ! S'il vous plaît,
+prenez au moins mon enfant !
+
+69
+00:07:38,324 --> 00:07:40,485
+Désolé, c'est impossible !
+On y va !
+
+70
+00:07:44,864 --> 00:07:45,853
+Prenez-le !
+
+71
+00:07:46,232 --> 00:07:47,358
+Faites-moi monter !
+
+72
+00:08:03,483 --> 00:08:06,111
+Abrutis !
+Vous ne savez pas viser ou quoi ?
+
+73
+00:08:06,686 --> 00:08:09,621
+Mais ce canon ne peut pas
+viser sa cible avec précision !
+
+74
+00:08:10,189 --> 00:08:12,680
+C'est pas le moment de pleurnicher !
+
+75
+00:08:12,892 --> 00:08:14,450
+Préparez le prochain obus !
+
+76
+00:08:14,627 --> 00:08:15,491
+Impossible !
+
+77
+00:08:21,300 --> 00:08:23,393
+La porte se ferme !
+
+78
+00:08:23,870 --> 00:08:25,701
+Replions-nous !
+Il ne faut pas rester ici !
+
+79
+00:08:25,872 --> 00:08:26,600
+Hé !
+
+80
+00:08:28,741 --> 00:08:30,868
+Ne fermez pas !
+Attendez encore un peu !
+
+81
+00:08:31,511 --> 00:08:33,843
+Il y a encore
+plein de monde à l'intérieur !
+
+82
+00:08:34,313 --> 00:08:36,178
+S'ils passent cette porte,
+
+83
+00:08:36,449 --> 00:08:39,441
+ce ne sera plus une seule ville
+que les titans occuperont !
+
+84
+00:08:39,819 --> 00:08:43,550
+Le champ d'activité des humains
+reculera jusqu'au mur suivant !
+
+85
+00:08:43,723 --> 00:08:47,181
+Ce n'est pas une raison
+pour laisser crever tous ces gens !
+
+86
+00:08:48,528 --> 00:08:49,495
+Il faut fermer !
+
+87
+00:08:49,662 --> 00:08:50,629
+Les titans arrivent !
+
+88
+00:08:51,931 --> 00:08:52,863
+Fermez la porte !
+
+89
+00:08:55,735 --> 00:08:56,667
+Arrêtez !
+
+90
+00:09:38,377 --> 00:09:39,401
+C'est quoi...
+
+91
+00:09:41,414 --> 00:09:42,244
+ça ?
+
+92
+00:09:43,416 --> 00:09:44,383
+Feu !
+
+93
+00:09:52,325 --> 00:09:53,952
+- Quoi ?
+- Ça ne lui fait rien !
+
+94
+00:10:00,600 --> 00:10:02,761
+Il arrive ! Tous aux abris !
+
+95
+00:10:03,736 --> 00:10:04,828
+Un titan arrive !
+
+96
+00:10:05,438 --> 00:10:06,496
+Il fonce sur vous !
+
+97
+00:10:06,872 --> 00:10:08,965
+Vite ! La porte !
+
+98
+00:10:44,577 --> 00:10:45,544
+La porte est...
+
+99
+00:11:03,596 --> 00:11:06,064
+<i>Illustration approximative</i>
+<i>de l'envergure</i>
+<i>du champ d'activé humaine</i>
+
+100
+00:11:06,432 --> 00:11:09,367
+<i>Cette illustration présente</i>
+<i>l'étendue du domaine</i>
+<i>dans lequel vivent les hommes.</i>
+
+101
+00:11:09,535 --> 00:11:11,435
+<i>L'extérieur du mur Maria</i>
+<i>reste une énigme.</i>
+
+102
+00:11:11,604 --> 00:11:14,402
+<i>L'altitude est plus élevée au centre</i>
+<i>du champ d'activité humaine.</i>
+
+103
+00:11:14,573 --> 00:11:17,064
+<i>Le champ d'activité humaine a</i>
+<i>la chance d'être riche en eau,</i>
+
+104
+00:11:17,443 --> 00:11:19,411
+<i>en ressources minérales</i>
+<i>et en gaz naturel.</i>
+
+105
+00:11:20,680 --> 00:11:25,481
+<i>Quelques heures après la chute</i>
+<i>de Shiganshina au sud du mur Maria,</i>
+
+106
+00:11:25,918 --> 00:11:31,754
+<i>la nouvelle s'était répandue</i>
+<i>dans toutes les villes.</i>
+
+107
+00:11:32,658 --> 00:11:34,592
+Est-ce vrai que des titans ont envahi
+
+108
+00:11:34,760 --> 00:11:36,591
+la zone de Shiganshina ?
+
+109
+00:11:37,730 --> 00:11:41,598
+Incroyable, le mur a tenu un siècle !
+Pourquoi maintenant ?
+
+110
+00:11:42,134 --> 00:11:43,863
+Que tu le croies ou non,
+
+111
+00:11:44,403 --> 00:11:46,963
+les faits sont là,
+des hommes fuient en bateau !
+
+112
+00:11:47,540 --> 00:11:50,065
+D'après les rapports,
+ils seraient 500.
+
+113
+00:11:50,609 --> 00:11:54,045
+Le problème est de savoir
+si ça ne concerne que Shiganshina.
+
+114
+00:11:54,647 --> 00:11:59,414
+Ils n'ont quand même pas pénétré
+à l'intérieur du mur Maria ?
+
+115
+00:12:02,621 --> 00:12:03,383
+Quoi qu'il en soit,
+
+116
+00:12:03,956 --> 00:12:06,390
+contactons le centre
+et demandons des instructions.
+
+117
+00:12:06,559 --> 00:12:10,962
+Nous ne pouvons pas affronter seuls
+un tel état d'urgence.
+
+118
+00:12:11,697 --> 00:12:12,664
+Excusez-moi !
+
+119
+00:12:13,499 --> 00:12:15,126
+Un messager vient d'arriver !
+
+120
+00:12:15,501 --> 00:12:17,526
+Le mur Maria a été détruit
+
+121
+00:12:17,703 --> 00:12:19,568
+et les titans sont entrés !
+
+122
+00:12:27,580 --> 00:12:28,547
+C'est terminé.
+
+123
+00:12:30,583 --> 00:12:31,607
+C'est terminé.
+
+124
+00:12:32,852 --> 00:12:35,946
+L'humanité tout entière
+va se faire bouffer par les titans.
+
+125
+00:12:37,089 --> 00:12:38,488
+<i>C'est terminé ?</i>
+
+126
+00:12:41,761 --> 00:12:44,855
+<i>Je ne rentrerai plus jamais</i>
+<i>chez moi.</i>
+
+127
+00:12:48,834 --> 00:12:49,630
+<i>Pourquoi ?</i>
+
+128
+00:12:51,203 --> 00:12:54,502
+<i>Pourquoi s'est-on engueulés</i>
+<i>jusqu'au bout ?</i>
+
+129
+00:12:55,808 --> 00:12:57,070
+<i>Maman n'est plus là.</i>
+
+130
+00:12:59,011 --> 00:13:00,535
+<i>Elle n'existe plus !</i>
+
+131
+00:13:03,215 --> 00:13:04,477
+<i>Pourquoi ?</i>
+
+132
+00:13:05,751 --> 00:13:08,777
+<i>C'est que tu n'en avais pas la force.</i>
+
+133
+00:13:11,023 --> 00:13:11,921
+<i>Parce que je...</i>
+
+134
+00:13:12,625 --> 00:13:14,650
+<i>Parce que les humains sont faibles.</i>
+
+135
+00:13:15,060 --> 00:13:17,824
+<i>Les faibles doivent</i>
+<i>se contenter de pleurer ?</i>
+
+136
+00:13:32,912 --> 00:13:35,039
+Je vais les éliminer de ce monde.
+
+137
+00:13:35,915 --> 00:13:36,574
+Eren.
+
+138
+00:13:37,016 --> 00:13:38,779
+Que se passe-t-il, Eren ?
+
+139
+00:13:39,885 --> 00:13:40,579
+Eren.
+
+140
+00:13:42,588 --> 00:13:43,748
+Je vais les exterminer !
+
+141
+00:13:45,724 --> 00:13:47,157
+Tous...
+
+142
+00:13:47,793 --> 00:13:49,556
+jusqu'au dernier !
+
+143
+00:13:51,597 --> 00:13:52,154
+Eren.
+
+144
+00:13:58,971 --> 00:14:00,996
+<i>Cette année-là,</i>
+<i>le gouvernement central</i>
+
+145
+00:14:01,173 --> 00:14:06,236
+<i>a décidé de reculer le champ</i>
+<i>d'activité humaine jusqu'au mur Rose.</i>
+
+146
+00:14:07,680 --> 00:14:12,014
+<i>Entre temps, près de 10 000 personnes</i>
+<i>ont été dévorées par les titans.</i>
+
+147
+00:14:14,620 --> 00:14:16,178
+Eren... Carla...
+
+148
+00:14:16,956 --> 00:14:17,786
+Mikasa...
+
+149
+00:14:18,624 --> 00:14:20,148
+J'espère que vous êtes en vie !
+
+150
+00:14:23,629 --> 00:14:24,118
+Eren.
+
+151
+00:14:25,231 --> 00:14:25,993
+Eren.
+
+152
+00:14:27,032 --> 00:14:27,896
+Eren !
+
+153
+00:14:28,667 --> 00:14:29,190
+Eren !
+
+154
+00:14:30,002 --> 00:14:32,197
+Papa ! Arrête, papa !
+
+155
+00:14:33,706 --> 00:14:34,900
+Qu'est-ce que tu essaies
+de faire ?
+
+156
+00:14:36,041 --> 00:14:37,269
+Tends ton bras sans discuter !
+
+157
+00:14:37,643 --> 00:14:38,200
+Non !
+
+158
+00:14:38,878 --> 00:14:41,642
+Tu as perdu la tête
+à cause de la mort de maman !
+
+159
+00:14:41,914 --> 00:14:42,846
+Eren !
+
+160
+00:14:43,282 --> 00:14:44,909
+Lâche-moi, papa !
+
+161
+00:14:45,317 --> 00:14:47,877
+C'est pour ton bien !
+
+162
+00:14:48,053 --> 00:14:49,543
+Qu'est-ce que tu racontes ?
+
+163
+00:14:50,155 --> 00:14:51,144
+N'oublie pas la clé.
+
+164
+00:14:51,924 --> 00:14:53,789
+Tu dois absolument y arriver !
+
+165
+00:14:54,727 --> 00:14:56,627
+Un jour, tu sauras la vérité !
+
+166
+00:14:56,795 --> 00:14:57,853
+Jusqu'à ce moment-là...
+
+167
+00:15:07,106 --> 00:15:07,765
+Eren.
+
+168
+00:15:08,574 --> 00:15:10,838
+Ça va ?
+Tu as fait un cauchemar.
+
+169
+00:15:12,344 --> 00:15:15,006
+J'ai l'impression
+que j'étais avec mon père.
+
+170
+00:15:15,681 --> 00:15:17,308
+Impossible, c'est un rêve.
+
+171
+00:15:19,218 --> 00:15:20,742
+Tu crois ?
+
+172
+00:15:24,590 --> 00:15:25,079
+On y va ?
+
+173
+00:15:26,592 --> 00:15:28,116
+Il y a une distribution de nourriture.
+
+174
+00:15:33,899 --> 00:15:36,663
+Cet endroit servait
+d'entrepôt de vivres.
+
+175
+00:15:37,603 --> 00:15:40,572
+Tous ceux qui étaient sur les bateaux
+sont réunis ici.
+
+176
+00:15:51,750 --> 00:15:53,012
+Hé ! Fais la queue, toi !
+
+177
+00:15:53,185 --> 00:15:53,913
+Ta gueule !
+
+178
+00:15:54,353 --> 00:15:56,821
+J'ai rien bouffé depuis hier soir !
+
+179
+00:15:57,656 --> 00:16:00,284
+On ne peut pas encore dire
+qu'on a survécu.
+
+180
+00:16:01,694 --> 00:16:02,922
+Eren ! Mikasa !
+
+181
+00:16:04,129 --> 00:16:04,891
+Armin !
+
+182
+00:16:06,832 --> 00:16:08,732
+Tenez, juste à temps.
+
+183
+00:16:09,101 --> 00:16:10,659
+Mon grand-père nous a pris ça
+
+184
+00:16:10,836 --> 00:16:12,770
+en disant
+que c'était pour ses enfants.
+
+185
+00:16:13,038 --> 00:16:13,834
+Merci.
+
+186
+00:16:21,013 --> 00:16:21,980
+Qu'est-ce qu'il a ?
+
+187
+00:16:22,314 --> 00:16:23,338
+C'est normal,
+
+188
+00:16:23,916 --> 00:16:26,680
+il n'y a pas assez de nourriture
+pour tout le monde,
+
+189
+00:16:27,286 --> 00:16:29,220
+et ce n'est que pour un jour.
+
+190
+00:16:29,955 --> 00:16:31,786
+Il y a trop de réfugiés.
+
+191
+00:16:31,957 --> 00:16:33,982
+Ils manquaient déjà de nourriture,
+
+192
+00:16:34,159 --> 00:16:38,027
+et tu sais qu'elle est précieuse
+aux habitants de l'extérieur.
+
+193
+00:16:39,031 --> 00:16:41,659
+Pourquoi doit-on donner
+notre bouffe à des étrangers ?
+
+194
+00:16:43,435 --> 00:16:45,903
+Puisque les titans ont franchi le mur,
+
+195
+00:16:46,071 --> 00:16:48,335
+ils auraient dû en bouffer plus
+pour réduire leur nombre.
+
+196
+00:16:52,711 --> 00:16:53,302
+Eren !
+
+197
+00:16:53,979 --> 00:16:57,073
+Du coup, on va manquer
+encore plus de nourriture.
+
+198
+00:16:58,150 --> 00:16:59,014
+Aïe !
+
+199
+00:17:00,219 --> 00:17:02,244
+Qu'est-ce qui te prend, merdeux ?
+
+200
+00:17:04,990 --> 00:17:06,423
+Tu ne sais pas ce que c'est...
+
+201
+00:17:07,359 --> 00:17:09,350
+Tu n'as sûrement jamais vu ça !
+
+202
+00:17:10,896 --> 00:17:13,763
+Un titan qui dévore un homme !
+
+203
+00:17:15,801 --> 00:17:17,393
+- Ta gueule !
+- Excusez-le !
+
+204
+00:17:18,170 --> 00:17:20,229
+Il avait tellement faim
+qu'il s'est énervé
+
+205
+00:17:20,406 --> 00:17:23,375
+et il a perdu son sang-froid.
+
+206
+00:17:24,843 --> 00:17:26,811
+S'il vous plaît, pardonnez-lui.
+
+207
+00:17:30,416 --> 00:17:31,314
+Merde.
+
+208
+00:17:31,784 --> 00:17:33,877
+Si vous ne crevez pas de faim,
+
+209
+00:17:34,386 --> 00:17:35,910
+c'est grâce à nous.
+
+210
+00:17:37,056 --> 00:17:40,150
+Même les gamins devraient
+se sentir reconnaissants.
+
+211
+00:17:40,459 --> 00:17:41,187
+Oui.
+
+212
+00:17:42,127 --> 00:17:43,059
+Merde.
+
+213
+00:17:43,829 --> 00:17:46,297
+Je refuse d'être dépendant
+de ces types !
+
+214
+00:17:48,300 --> 00:17:51,167
+Je jure de retourner au mur Maria !
+
+215
+00:17:51,503 --> 00:17:53,733
+J'écraserai ces foutus titans !
+
+216
+00:17:54,440 --> 00:17:57,341
+Eren,
+tu ne dis pas ça sérieusement ?
+
+217
+00:17:57,509 --> 00:17:58,305
+Bien sûr que si !
+
+218
+00:17:59,812 --> 00:18:03,213
+Moi, je ne fais pas mon fier
+alors que je suis protégé par le mur.
+
+219
+00:18:04,450 --> 00:18:05,439
+Je n'ai pas besoin de ça !
+
+220
+00:18:08,053 --> 00:18:09,884
+Eren ! Tu vas mourir de faim !
+
+221
+00:18:10,255 --> 00:18:12,155
+Ça ne te vexe pas, toi ?
+
+222
+00:18:12,825 --> 00:18:15,385
+Ce n'est pas en mendiant
+qu'on gagnera contre les titans.
+
+223
+00:18:15,761 --> 00:18:17,820
+De toute façon,
+on ne peut pas gagner !
+
+224
+00:18:17,996 --> 00:18:20,760
+On n'a pas d'autre issue
+que vivre entourés de murs !
+
+225
+00:18:20,933 --> 00:18:23,925
+Si on fait n'importe quoi, on mourra,
+comme mon père et ma mère !
+
+226
+00:18:24,103 --> 00:18:26,230
+Et donc, tu baisses la tête
+devant ces types ?
+
+227
+00:18:26,405 --> 00:18:27,372
+T'as pas honte ?
+
+228
+00:18:27,940 --> 00:18:29,965
+Mais on n'a pas d'autre choix !
+
+229
+00:18:30,142 --> 00:18:31,507
+Quelle bonne excuse !
+
+230
+00:18:32,177 --> 00:18:36,443
+Alors, vis jusqu'à la fin de tes jours
+comme du bétail, mauviette !
+
+231
+00:18:40,919 --> 00:18:42,045
+Mikasa.
+
+232
+00:18:50,963 --> 00:18:52,794
+Si Armin est une mauviette,
+
+233
+00:18:52,965 --> 00:18:54,899
+alors toi et moi aussi.
+
+234
+00:18:55,067 --> 00:18:57,092
+Que ce soit pour fuir les titans,
+
+235
+00:18:57,269 --> 00:18:58,827
+ou bien pour fuir la ville,
+
+236
+00:18:59,004 --> 00:19:01,336
+on n'a pas su le faire seuls.
+
+237
+00:19:02,541 --> 00:19:04,975
+Aujourd'hui, on nous a même aidés
+à nous nourrir.
+
+238
+00:19:05,844 --> 00:19:10,975
+Des humains aussi faibles
+ne pourraient pas tuer un seul titan.
+
+239
+00:19:12,985 --> 00:19:15,146
+L'important, c'est de survivre,
+
+240
+00:19:15,921 --> 00:19:17,411
+comme l'a dit ta mère.
+
+241
+00:19:23,896 --> 00:19:24,794
+Mikasa !
+
+242
+00:19:25,297 --> 00:19:26,355
+Mange.
+
+243
+00:19:26,532 --> 00:19:28,124
+Tu dois survivre.
+
+244
+00:19:28,300 --> 00:19:30,825
+Je ne te laisserai pas
+mourir de faim.
+
+245
+00:19:42,114 --> 00:19:43,376
+<i>Quelques jours plus tard,</i>
+
+246
+00:19:43,549 --> 00:19:45,983
+<i>pour assurer les réserves,</i>
+
+247
+00:19:46,151 --> 00:19:49,814
+<i>on a envoyé les réfugiés</i>
+<i>défricher les terres arides.</i>
+
+248
+00:19:52,157 --> 00:19:54,387
+<i>Mais la pénurie étant inéluctable,</i>
+
+249
+00:19:55,160 --> 00:19:56,957
+<i>l'année suivante, en 846,</i>
+
+250
+00:19:57,396 --> 00:20:00,957
+<i>le gouvernement, sous prétexte</i>
+<i>de la reconquête du mur Maria,</i>
+
+251
+00:20:01,133 --> 00:20:04,227
+<i>a engagé nombre de réfugiés</i>
+<i>dans ses opérations.</i>
+
+252
+00:20:12,177 --> 00:20:14,111
+<i>Ils étaient 250 000,</i>
+
+253
+00:20:15,914 --> 00:20:18,439
+<i>soit environ 20 % de la population.</i>
+
+254
+00:20:18,617 --> 00:20:21,552
+<i>Mais seule une centaine de personnes</i>
+<i>est revenue en vie.</i>
+
+255
+00:20:23,288 --> 00:20:24,380
+<i>Grâce à ce sacrifice,</i>
+
+256
+00:20:24,556 --> 00:20:29,619
+<i>les autres ont</i>
+<i>un peu moins souffert de la pénurie.</i>
+
+257
+00:20:43,242 --> 00:20:44,971
+Tout est la faute de ces titans.
+
+258
+00:20:46,144 --> 00:20:48,612
+Si seulement on pouvait les écraser,
+
+259
+00:20:49,348 --> 00:20:52,181
+on pourrait regagner
+notre chez-nous.
+
+260
+00:20:54,519 --> 00:20:55,577
+Armin,
+
+261
+00:20:56,488 --> 00:20:59,355
+l'année prochaine,
+je vais m'engager dans l'armée.
+
+262
+00:21:02,294 --> 00:21:04,285
+Je gagnerai en force
+pour me battre contre les titans !
+
+263
+00:21:08,600 --> 00:21:09,362
+Moi aussi.
+
+264
+00:21:10,035 --> 00:21:10,501
+Armin !
+
+265
+00:21:11,236 --> 00:21:12,066
+Moi aussi !
+
+266
+00:21:13,572 --> 00:21:14,903
+Alors, moi aussi.
+
+267
+00:21:15,374 --> 00:21:17,672
+Mikasa, tu n'es pas obligée !
+
+268
+00:21:18,310 --> 00:21:20,972
+C'est toi qui disais
+qu'il fallait survivre.
+
+269
+00:21:21,179 --> 00:21:24,342
+Exactement, j'irai donc
+pour éviter que tu ne meures.
+
+270
+00:21:29,655 --> 00:21:31,520
+D'accord, tous les trois.
+
+271
+00:21:39,965 --> 00:21:41,125
+À présent,
+
+272
+00:21:41,300 --> 00:21:44,292
+la cérémonie d'admission à la 104e
+brigade d'entraînement va débuter !
+
+273
+00:21:45,270 --> 00:21:48,433
+Malheureusement pour vous,
+c'est moi qui vais vous diriger !
+
+274
+00:21:48,607 --> 00:21:49,574
+Je suis Keith Sadies !
+
+275
+00:21:50,375 --> 00:21:54,311
+Je n'ai aucunement l'intention
+de bien vous accueillir !
+
+276
+00:21:54,479 --> 00:21:57,471
+Vous êtes de la pâtée pour titan !
+Du simple bétail !
+
+277
+00:21:57,649 --> 00:21:59,310
+Vous êtes moins que du bétail !
+
+278
+00:22:00,085 --> 00:22:02,178
+Pendant trois ans,
+nous allons entraîner
+
+279
+00:22:02,688 --> 00:22:04,952
+la bande de larves inutiles
+que vous êtes !
+
+280
+00:22:05,524 --> 00:22:07,719
+Nous allons vous apprendre
+à combattre les titans !
+
+281
+00:22:08,560 --> 00:22:11,586
+Dans trois ans,
+quand vous affronterez les titans,
+
+282
+00:22:12,264 --> 00:22:13,993
+serez-vous encore de la pâtée ?
+
+283
+00:22:14,232 --> 00:22:17,963
+Ou serez-vous la glorieuse muraille
+qui protège le Roi ?
+
+284
+00:22:18,136 --> 00:22:22,038
+Ou les fiers soldats de l'humanité
+qui exterminent les titans ?
+
+285
+00:22:22,374 --> 00:22:24,069
+C'est à vous de choisir !
+
+286
+00:22:25,377 --> 00:22:27,607
+<i>Oui, c'est ce que je serai.</i>
+
+287
+00:22:29,448 --> 00:22:32,383
+<i>J'exterminerai tous les titans</i>
+<i>jusqu'au dernier.</i>
+

@@ -1,0 +1,1268 @@
+1
+00:01:42,602 --> 00:01:47,335
+<i>Une petite lame</i>
+<i>La lutte pour le district de Trost</i>
+
+2
+00:01:49,509 --> 00:01:51,204
+Hé ! Que se passe-t-il, Armin ?
+
+3
+00:01:51,478 --> 00:01:52,945
+Tiens bon ! Allez !
+
+4
+00:01:53,847 --> 00:01:55,109
+Armin ! Hé !
+
+5
+00:01:55,515 --> 00:01:56,413
+Armin ! Oh !
+
+6
+00:01:58,451 --> 00:02:00,419
+Tu t'es réveillé ?
+Ça va mieux ?
+
+7
+00:02:01,054 --> 00:02:03,488
+Tu n'es pas blessé ?
+Où est ton escouade ?
+
+8
+00:02:04,224 --> 00:02:05,054
+Mon escouade ?
+
+9
+00:02:06,025 --> 00:02:09,324
+Allez, reprends-toi.
+Pourquoi tu es tout seul ?
+
+10
+00:02:09,796 --> 00:02:12,094
+Tu es tout gluant.
+
+11
+00:02:12,565 --> 00:02:13,930
+Que s'est-il passé ?
+
+12
+00:02:20,206 --> 00:02:21,935
+Je ne sers à rien !
+
+13
+00:02:22,142 --> 00:02:23,370
+Je peux crever !
+
+14
+00:02:23,543 --> 00:02:24,441
+Calme-toi, Armin !
+
+15
+00:02:25,345 --> 00:02:26,437
+Et les autres ?
+
+16
+00:02:27,947 --> 00:02:29,244
+Laisse tomber, Conny.
+
+17
+00:02:30,183 --> 00:02:32,811
+À part lui,
+ils ont tous été tués.
+
+18
+00:02:33,286 --> 00:02:35,777
+La ferme !
+Armin n'a pas dit ça !
+
+19
+00:02:35,955 --> 00:02:37,786
+C'est pourtant évident !
+
+20
+00:02:38,091 --> 00:02:40,218
+On n'a pas le temps
+de s'occuper de lui.
+
+21
+00:02:41,227 --> 00:02:43,024
+Pourquoi Armin
+serait le seul survivant ?
+
+22
+00:02:43,263 --> 00:02:44,389
+J'en sais rien.
+
+23
+00:02:44,564 --> 00:02:46,964
+Les titans ont dû
+le prendre pour un cadavre.
+
+24
+00:02:47,133 --> 00:02:50,261
+Ils n'ont pas eu de chance
+de croiser plusieurs titans,
+
+25
+00:02:50,436 --> 00:02:54,395
+mais je plains Eren et les autres
+si ce cancre est le seul survivant.
+
+26
+00:02:55,175 --> 00:02:56,472
+Hé, sale garce,
+
+27
+00:02:57,043 --> 00:02:59,238
+et si je te clouais le bec
+à tout jamais ?
+
+28
+00:02:59,512 --> 00:03:01,241
+Arrêtez, vous deux !
+
+29
+00:03:01,414 --> 00:03:03,541
+Tout le monde est secoué
+par les événements !
+
+30
+00:03:03,917 --> 00:03:05,976
+Beaucoup de nos amis
+meurent subitement,
+
+31
+00:03:06,553 --> 00:03:07,884
+c'est naturel !
+
+32
+00:03:08,221 --> 00:03:09,984
+C'est bien ma Christa, ça !
+
+33
+00:03:10,290 --> 00:03:12,884
+Quand cette opération sera finie,
+épouse-moi !
+
+34
+00:03:13,893 --> 00:03:14,416
+C'est vrai,
+
+35
+00:03:15,628 --> 00:03:17,926
+elle déconne plus que d'habitude.
+
+36
+00:03:19,199 --> 00:03:21,827
+On ne peut pas rester là.
+Tu peux te lever, Armin ?
+
+37
+00:03:26,940 --> 00:03:28,931
+Désolé de t'avoir importuné.
+
+38
+00:03:30,643 --> 00:03:32,440
+Je vais rejoindre l'arrière-garde.
+
+39
+00:03:32,612 --> 00:03:33,306
+Hé !
+
+40
+00:03:33,913 --> 00:03:34,538
+Armin !
+
+41
+00:03:38,618 --> 00:03:41,451
+Allons-y, Conny !
+On doit avancer !
+
+42
+00:03:47,227 --> 00:03:48,057
+<i>C'est l'enfer...</i>
+
+43
+00:03:50,897 --> 00:03:52,455
+<i>mais ce n'est pas nouveau.</i>
+
+44
+00:03:53,433 --> 00:03:56,061
+<i>Je me trompe depuis toujours.</i>
+
+45
+00:03:57,103 --> 00:04:00,470
+<i>Ce monde est un enfer</i>
+<i>depuis le début.</i>
+
+46
+00:04:03,176 --> 00:04:05,474
+<i>Les forts dévorent les faibles.</i>
+
+47
+00:04:06,412 --> 00:04:08,880
+<i>Un monde tellement simple</i>
+<i>à comprendre.</i>
+
+48
+00:04:10,583 --> 00:04:13,279
+<i>Seulement, mes amis, eux...</i>
+
+49
+00:04:16,356 --> 00:04:20,053
+<i>ont essayé de devenir forts</i>
+<i>dans ce monde.</i>
+
+50
+00:04:22,295 --> 00:04:24,525
+<i>Ils ont aidé le faible que je suis.</i>
+
+51
+00:04:26,432 --> 00:04:28,423
+<i>Je ne pouvais pas endurer ça.</i>
+
+52
+00:04:30,103 --> 00:04:34,039
+<i>Pour eux deux,</i>
+<i>je suis une personne à défendre.</i>
+
+53
+00:04:34,440 --> 00:04:36,931
+<i>C'est en étant aussi fort qu'eux</i>
+
+54
+00:04:37,110 --> 00:04:39,101
+<i>et en devenant leur égal</i>
+
+55
+00:04:39,279 --> 00:04:42,180
+<i>que je voulais vivre dans ce monde.</i>
+
+56
+00:04:51,457 --> 00:04:55,188
+<i>Et voilà le résultat,</i>
+<i>à cause de moi, Eren est...</i>
+
+57
+00:05:08,975 --> 00:05:11,239
+Hanna, qu'est-ce que tu fais ?
+
+58
+00:05:12,445 --> 00:05:15,243
+Armin, aide-moi !
+Franz ne respire plus !
+
+59
+00:05:16,649 --> 00:05:18,378
+Depuis tout à l'heure...
+
+60
+00:05:18,551 --> 00:05:21,645
+Depuis tout à l'heure,
+je fais tout pour le réanimer !
+
+61
+00:05:22,722 --> 00:05:23,586
+Franz !
+
+62
+00:05:24,991 --> 00:05:28,051
+Hanna, c'est dangereux ici,
+allons sur les toits.
+
+63
+00:05:28,227 --> 00:05:30,354
+Je ne peux pas laisser Franz
+ici comme ça !
+
+64
+00:05:31,230 --> 00:05:32,959
+Ce n'est pas ça, Hanna...
+
+65
+00:05:34,600 --> 00:05:35,362
+Franz est...
+
+66
+00:05:45,044 --> 00:05:46,477
+Par pitié, stop !
+
+67
+00:05:48,281 --> 00:05:49,373
+Ça suffit !
+
+68
+00:05:53,086 --> 00:05:56,112
+Ça suffit, ce n'est plus possible !
+
+69
+00:06:02,328 --> 00:06:06,424
+Dites, vous avez bien conscience
+de la situation ?
+
+70
+00:06:07,133 --> 00:06:09,363
+Oui, j'en ai bien conscience,
+justement !
+
+71
+00:06:09,602 --> 00:06:12,002
+Si vous voulez passer aussi,
+aidez-nous !
+
+72
+00:06:12,171 --> 00:06:14,537
+- Dites pas de conneries !
+- Ça passera pas !
+
+73
+00:06:14,707 --> 00:06:16,072
+Priorité aux personnes !
+
+74
+00:06:16,275 --> 00:06:17,333
+On va tous se faire dévorer !
+
+75
+00:06:17,510 --> 00:06:19,034
+Tu attends quoi, soldat ?
+
+76
+00:06:19,212 --> 00:06:21,146
+Dépêche-toi
+d'arrêter ces types !
+
+77
+00:06:21,314 --> 00:06:24,078
+- Mais...
+- Essaie un peu, sous-fifre !
+
+78
+00:06:24,450 --> 00:06:26,418
+Je suis le boss de cette firme !
+
+79
+00:06:28,254 --> 00:06:28,743
+Non...
+
+80
+00:06:29,188 --> 00:06:33,124
+Avec quel argent sont préparés
+les repas que vous chiez, à ton avis ?
+
+81
+00:06:33,393 --> 00:06:36,487
+Tu peux sortir le fric pour nourrir
+les soldats de cette ville ?
+
+82
+00:06:37,230 --> 00:06:38,527
+Allez, poussez !
+
+83
+00:06:38,765 --> 00:06:41,495
+Vous ne gagnerez jamais
+de quoi payer ce chargement
+
+84
+00:06:41,667 --> 00:06:43,726
+dans votre misérable vie !
+
+85
+00:06:44,137 --> 00:06:45,729
+Coopérez et vous serez récompensés !
+
+86
+00:06:46,439 --> 00:06:47,770
+Ne t'en fais pas,
+
+87
+00:06:48,141 --> 00:06:51,577
+papa va abattre ces titans
+avec les canons.
+
+88
+00:06:52,478 --> 00:06:53,308
+Maman.
+
+89
+00:06:54,447 --> 00:06:55,414
+Là-bas.
+
+90
+00:07:06,793 --> 00:07:09,626
+Poussez
+si vous ne voulez pas crever !
+
+91
+00:07:11,330 --> 00:07:12,194
+- Dégagez !
+- Mon enfant !
+
+92
+00:07:16,836 --> 00:07:19,396
+Merde, pourquoi il nous ignore ?
+
+93
+00:07:19,572 --> 00:07:21,597
+C'est un déviant !
+Cherche pas à comprendre !
+
+94
+00:07:22,341 --> 00:07:25,367
+Il est rapide ! Même parmi l'élite,
+nous n'arrivons pas à le rattraper !
+
+95
+00:07:25,545 --> 00:07:26,739
+Si ça continue...
+
+96
+00:07:47,600 --> 00:07:49,830
+Qu'est-ce que vous fabriquez ?
+
+97
+00:07:51,404 --> 00:07:54,805
+Tu tombes bien !
+Dis à ces abrutis de nous aider !
+
+98
+00:07:55,308 --> 00:07:56,775
+Tu auras une récompense !
+
+99
+00:07:59,579 --> 00:08:02,139
+Mes compagnons meurent.
+
+100
+00:08:03,616 --> 00:08:06,176
+Ils meurent en luttant
+contre les titans
+
+101
+00:08:06,352 --> 00:08:08,513
+car l'évacuation n'est pas terminée.
+
+102
+00:08:09,522 --> 00:08:10,454
+Naturellement !
+
+103
+00:08:10,823 --> 00:08:13,155
+C'est votre devoir
+de donner votre vie
+
+104
+00:08:13,326 --> 00:08:16,227
+pour protéger la vie et les biens
+des habitants !
+
+105
+00:08:16,529 --> 00:08:20,659
+Ne frimez pas parce que vous êtes
+enfin utiles après un siècle !
+
+106
+00:08:29,742 --> 00:08:33,542
+Si tu penses qu'il est naturel
+qu'une personne meure pour une autre,
+
+107
+00:08:33,713 --> 00:08:37,672
+alors tu vas comprendre
+que la précieuse vie d'un seul
+
+108
+00:08:37,850 --> 00:08:41,718
+peut sauver
+celle de beaucoup d'autres.
+
+109
+00:08:42,288 --> 00:08:43,255
+Essaie pour voir !
+
+110
+00:08:43,623 --> 00:08:45,853
+Je connais ton supérieur
+depuis longtemps !
+
+111
+00:08:46,459 --> 00:08:48,927
+Je peux décider de ton cas
+très facilement !
+
+112
+00:08:54,934 --> 00:08:56,663
+Comment un cadavre parlera-t-il ?
+
+113
+00:09:00,206 --> 00:09:00,729
+Attends !
+
+114
+00:09:05,945 --> 00:09:06,741
+Président...
+
+115
+00:09:08,314 --> 00:09:09,611
+Tirez le chargement.
+
+116
+00:09:18,824 --> 00:09:19,916
+Merci beaucoup !
+
+117
+00:09:21,360 --> 00:09:24,329
+Vous nous avez sauvés,
+merci infiniment.
+
+118
+00:09:51,290 --> 00:09:53,588
+Tu as été habile.
+Tu es très forte.
+
+119
+00:09:54,527 --> 00:09:55,653
+Merci beaucoup.
+
+120
+00:09:56,295 --> 00:09:56,954
+Mais...
+
+121
+00:09:57,897 --> 00:10:01,993
+j'ai émoussé mes lames
+en une seule attaque.
+
+122
+00:10:02,568 --> 00:10:03,796
+Je ferai plus attention.
+
+123
+00:10:06,405 --> 00:10:07,997
+Qu'as-tu donc vécu ?
+
+124
+00:10:09,041 --> 00:10:10,599
+Non, je n'ai rien dit.
+
+125
+00:10:17,049 --> 00:10:19,813
+<i>Pourquoi les souvenirs ressurgissent</i>
+<i>dans de tels moments ?</i>
+
+126
+00:10:21,621 --> 00:10:25,455
+<i>Acier renforcé : cette matière</i>
+<i>alliant robustesse et souplesse</i>
+<i>peut trancher la chair des titans.</i>
+
+127
+00:10:25,625 --> 00:10:29,459
+<i>Cet acier est utilisé pour</i>
+<i>la confection des lames striées,</i>
+<i>connues comme armes anti-titans.</i>
+
+128
+00:10:29,629 --> 00:10:30,823
+<i>Pour l'affinage de cet acier renforcé,</i>
+
+129
+00:10:30,997 --> 00:10:34,660
+<i>les hauts fourneaux installés</i>
+<i>dans les villes industrielles</i>
+<i>sont indispensables.</i>
+
+130
+00:10:34,834 --> 00:10:37,462
+<i>La production est impossible</i>
+<i>en dehors des villes industrielles.</i>
+
+131
+00:10:44,977 --> 00:10:45,875
+J'ai fini !
+
+132
+00:10:46,812 --> 00:10:48,040
+Maman, regarde !
+
+133
+00:10:48,648 --> 00:10:52,641
+Tu l'as bien réussie, Mikasa,
+c'est joli.
+
+134
+00:10:54,587 --> 00:10:58,648
+Cette broderie est transmise
+de génération en génération.
+
+135
+00:10:59,525 --> 00:11:02,494
+Quand toi aussi tu auras un enfant,
+tu la lui enseigneras.
+
+136
+00:11:04,096 --> 00:11:05,620
+Comment on fait les enfants ?
+
+137
+00:11:06,399 --> 00:11:08,731
+Je ne sais pas,
+demande à ton père.
+
+138
+00:11:10,336 --> 00:11:11,325
+Alors, papa ?
+
+139
+00:11:11,504 --> 00:11:14,302
+Moi non plus, je ne sais pas.
+
+140
+00:11:14,540 --> 00:11:17,509
+Mais le docteur Jäger
+ne va plus tarder,
+
+141
+00:11:17,677 --> 00:11:18,974
+tu vas pouvoir lui demander.
+
+142
+00:11:23,082 --> 00:11:24,811
+Il vient justement d'arriver.
+
+143
+00:11:28,120 --> 00:11:29,087
+J'arrive !
+
+144
+00:11:34,760 --> 00:11:35,658
+Mikasa ?
+
+145
+00:11:35,828 --> 00:11:38,854
+C'est ça,
+une fille du même âge que toi.
+
+146
+00:11:39,699 --> 00:11:42,691
+Il n'y a pas d'enfants dans le coin.
+Sois gentil avec elle.
+
+147
+00:11:44,003 --> 00:11:45,937
+Ça dépendra de son attitude.
+
+148
+00:11:46,639 --> 00:11:47,606
+Eren.
+
+149
+00:11:48,374 --> 00:11:51,866
+C'est parce que tu réagis comme ça
+que tu n'as qu'un ami.
+
+150
+00:11:52,978 --> 00:11:54,104
+Ils sont absents ?
+
+151
+00:11:55,614 --> 00:11:57,878
+M. Ackerman,
+c'est le docteur Jäger.
+
+152
+00:12:00,986 --> 00:12:02,351
+Je me permets.
+
+153
+00:12:05,391 --> 00:12:06,380
+Qu'est-ce qu'il y a ?
+
+154
+00:12:08,127 --> 00:12:09,924
+Alors, papa ?
+
+155
+00:12:18,637 --> 00:12:19,399
+C'est fini.
+
+156
+00:12:20,039 --> 00:12:21,097
+Eren !
+
+157
+00:12:21,474 --> 00:12:24,500
+Tu n'as pas vu la fille, Mikasa ?
+
+158
+00:12:25,878 --> 00:12:26,776
+Non.
+
+159
+00:12:27,546 --> 00:12:28,376
+D'accord.
+
+160
+00:12:30,082 --> 00:12:33,381
+Je vais demander
+aux brigades spéciales d'enquêter.
+
+161
+00:12:33,552 --> 00:12:35,019
+Toi, tu m'attends là.
+
+162
+00:12:35,621 --> 00:12:37,384
+C'est compris, Eren ?
+
+163
+00:12:39,091 --> 00:12:39,955
+Eren !
+
+164
+00:12:46,999 --> 00:12:50,730
+Tu es vraiment sûr
+de pouvoir la vendre, elle ?
+
+165
+00:12:51,804 --> 00:12:54,432
+Il a fallu tuer ses parents
+pour l'enlever.
+
+166
+00:12:54,874 --> 00:12:56,739
+Regarde bien son visage.
+
+167
+00:12:59,445 --> 00:13:01,743
+Elle est belle,
+mais c'est encore une gamine.
+
+168
+00:13:01,914 --> 00:13:02,972
+C'est pas mon genre.
+
+169
+00:13:03,883 --> 00:13:06,545
+Je ne te demande pas
+si c'est ton genre.
+
+170
+00:13:06,719 --> 00:13:07,981
+Elle est asiatique.
+
+171
+00:13:08,854 --> 00:13:11,584
+Autrefois,
+il y avait différentes ethnies.
+
+172
+00:13:12,191 --> 00:13:14,489
+C'est la dernière descendante
+d'une famille
+
+173
+00:13:14,660 --> 00:13:18,596
+qui a jadis fui une région
+nommée "orient" pour venir ici.
+
+174
+00:13:19,665 --> 00:13:21,895
+Je vais la vendre aux enchères
+
+175
+00:13:22,067 --> 00:13:24,592
+à des pervers de la ville souterraine
+de la capitale.
+
+176
+00:13:25,504 --> 00:13:29,668
+Il n'y a plus d'asiatiques,
+on va en tirer un très bon prix.
+
+177
+00:13:29,842 --> 00:13:32,743
+Son père ne m'a pas semblé
+être asiatique.
+
+178
+00:13:33,012 --> 00:13:34,604
+Elle est métisse.
+
+179
+00:13:36,182 --> 00:13:37,171
+Exactement !
+
+180
+00:13:37,616 --> 00:13:39,516
+Sa mère avait
+beaucoup plus de valeur !
+
+181
+00:13:39,685 --> 00:13:40,845
+Mais t'as flippé et tu l'as tuée !
+
+182
+00:13:41,554 --> 00:13:44,455
+J'avais pas le choix !
+Elle résistait !
+
+183
+00:13:44,623 --> 00:13:45,920
+C'est ça, ton excuse ?
+
+184
+00:13:52,798 --> 00:13:54,493
+Docteur Jäger, on vous attend...
+
+185
+00:14:08,581 --> 00:14:09,980
+Bonjour, permettez-nous.
+
+186
+00:14:16,789 --> 00:14:18,051
+Reste bien sage.
+
+187
+00:14:18,924 --> 00:14:21,825
+Sauf si tu veux
+que je te fende la tête avec ça.
+
+188
+00:14:24,163 --> 00:14:24,993
+La garce !
+
+189
+00:14:25,731 --> 00:14:27,096
+Mikasa, fuis !
+
+190
+00:14:28,000 --> 00:14:28,728
+Maman...
+
+191
+00:14:29,034 --> 00:14:30,524
+Allez, dépêche-toi !
+
+192
+00:14:31,904 --> 00:14:32,632
+Mais...
+
+193
+00:14:34,173 --> 00:14:35,003
+Papa...
+
+194
+00:14:35,307 --> 00:14:37,901
+Merde ! Ça suffit !
+
+195
+00:14:51,123 --> 00:14:54,183
+Qu'est-ce que tu fous ?
+On devait juste tuer le père !
+
+196
+00:14:54,560 --> 00:14:56,118
+Attends, c'est cette garce...
+
+197
+00:14:56,795 --> 00:14:59,286
+Arrête les excuses
+et emmène la gamine !
+
+198
+00:15:03,235 --> 00:15:06,102
+Hé, je te conseille de rester sage.
+
+199
+00:15:08,007 --> 00:15:10,305
+Sinon, voilà ce qui arrivera !
+
+200
+00:15:21,854 --> 00:15:22,980
+<i>J'ai froid...</i>
+
+201
+00:15:34,199 --> 00:15:35,223
+Excusez-moi.
+
+202
+00:15:36,969 --> 00:15:37,731
+Hé, gamin !
+
+203
+00:15:38,737 --> 00:15:40,204
+Comment t'as trouvé cet endroit ?
+
+204
+00:15:40,906 --> 00:15:44,603
+Je me suis perdu dans le bois
+
+205
+00:15:45,110 --> 00:15:47,101
+et j'ai vu cette baraque.
+
+206
+00:15:52,851 --> 00:15:56,787
+Un enfant ne doit pas
+se promener seul dans les bois.
+
+207
+00:15:57,356 --> 00:16:00,325
+Il y a un grand méchant loup
+dans les bois.
+
+208
+00:16:01,226 --> 00:16:03,319
+Mais ne t'inquiète pas,
+
+209
+00:16:03,862 --> 00:16:05,659
+avec nous, tu ne...
+
+210
+00:16:08,100 --> 00:16:09,362
+Merci, monsieur.
+
+211
+00:16:10,169 --> 00:16:11,659
+J'ai bien compris.
+
+212
+00:16:13,739 --> 00:16:15,331
+Crève, enfoiré de merde !
+
+213
+00:16:19,144 --> 00:16:20,076
+C'est une blague ?
+
+214
+00:16:23,315 --> 00:16:25,806
+Attends un peu, merdeux !
+
+215
+00:16:32,791 --> 00:16:33,655
+Sale monstre !
+
+216
+00:16:35,327 --> 00:16:36,089
+Crève !
+
+217
+00:16:36,996 --> 00:16:38,861
+C'est tout ce que vous méritez !
+
+218
+00:16:39,865 --> 00:16:41,264
+Bien fait pour vous !
+
+219
+00:16:42,101 --> 00:16:43,966
+Ne te relève plus jamais !
+
+220
+00:17:00,019 --> 00:17:03,216
+Rassure-toi,
+ça va aller, maintenant.
+
+221
+00:17:07,693 --> 00:17:09,183
+Tu es Mikasa, c'est ça ?
+
+222
+00:17:09,962 --> 00:17:13,056
+Moi, c'est Eren.
+Je suis le fils du docteur Jäger.
+
+223
+00:17:13,699 --> 00:17:16,065
+Tu as déjà dû rencontrer mon père.
+
+224
+00:17:16,969 --> 00:17:20,905
+Je l'accompagnais en consultation,
+c'est alors que...
+
+225
+00:17:24,309 --> 00:17:26,243
+Ils devaient être trois.
+
+226
+00:17:36,755 --> 00:17:38,154
+C'est toi qui as fait ça ?
+
+227
+00:17:41,460 --> 00:17:44,258
+C'est toi qui les as tués ?
+Enfoiré !
+
+228
+00:17:44,930 --> 00:17:47,990
+Je vais te tuer !
+Je vais te tuer !
+
+229
+00:17:50,002 --> 00:17:51,264
+Bats-toi !
+
+230
+00:17:51,737 --> 00:17:52,396
+Tu dois te battre !
+
+231
+00:17:54,106 --> 00:17:56,404
+Si tu perds, tu meurs.
+
+232
+00:17:57,409 --> 00:17:59,400
+Si tu gagnes, tu vis.
+
+233
+00:17:59,945 --> 00:18:02,379
+Tu as quoi derrière la tête,
+merdeux ?
+
+234
+00:18:03,082 --> 00:18:06,017
+Tu ne peux pas gagner
+sans te battre !
+
+235
+00:18:12,291 --> 00:18:13,986
+Je ne peux pas faire ça.
+
+236
+00:18:23,235 --> 00:18:25,829
+<i>À ce moment-là,</i>
+<i>ça m'est revenu.</i>
+
+237
+00:18:27,239 --> 00:18:28,831
+<i>J'avais déjà assisté...</i>
+
+238
+00:18:30,209 --> 00:18:34,407
+<i>encore et encore</i>
+<i>à ce genre de spectacle.</i>
+
+239
+00:18:37,049 --> 00:18:39,847
+<i>J'en avais toujours</i>
+<i>devant les yeux,</i>
+
+240
+00:18:41,186 --> 00:18:45,122
+<i>mais je faisais semblant</i>
+<i>de ne pas voir.</i>
+
+241
+00:18:48,560 --> 00:18:49,288
+<i>Eh oui.</i>
+
+242
+00:18:51,997 --> 00:18:52,895
+<i>Ce monde...</i>
+
+243
+00:18:55,467 --> 00:18:56,957
+<i>est cruel.</i>
+
+244
+00:19:05,811 --> 00:19:09,076
+<i>Dès cet instant,</i>
+<i>mon corps a cessé de trembler.</i>
+
+245
+00:19:10,282 --> 00:19:14,810
+<i>Dès ce jour-là,</i>
+<i>j'ai pu me contrôler parfaitement.</i>
+
+246
+00:19:16,588 --> 00:19:18,920
+<i>J'ai su que je pouvais tout faire.</i>
+
+247
+00:19:19,424 --> 00:19:20,220
+<i>Bats-toi !</i>
+
+248
+00:19:25,864 --> 00:19:26,330
+<i>Bats-toi !</i>
+
+249
+00:19:28,167 --> 00:19:28,997
+<i>Bats-toi !</i>
+
+250
+00:19:40,179 --> 00:19:42,340
+Un coup dans le dos
+en plein cœur.
+
+251
+00:19:43,515 --> 00:19:45,983
+Ce sont ces enfants
+qui ont fait ça ?
+
+252
+00:19:51,390 --> 00:19:54,826
+Eren, je t'avais dit
+de m'attendre, non ?
+
+253
+00:19:55,160 --> 00:19:58,061
+Tu as conscience
+de ce que tu as fait ?
+
+254
+00:19:58,897 --> 00:20:00,990
+Je me suis débarrassé de monstres !
+
+255
+00:20:01,166 --> 00:20:03,396
+Ces animaux n'avaient d'humain
+que leur apparence !
+
+256
+00:20:04,136 --> 00:20:05,000
+Eren !
+
+257
+00:20:05,537 --> 00:20:09,496
+Ces types seraient partis bien avant
+l'arrivée des brigades spéciales !
+
+258
+00:20:09,875 --> 00:20:11,001
+Ça aurait été trop tard !
+
+259
+00:20:11,476 --> 00:20:13,000
+Quand bien même !
+
+260
+00:20:13,478 --> 00:20:15,412
+Tu as eu beaucoup de chance,
+Eren !
+
+261
+00:20:16,415 --> 00:20:17,575
+Ce que je te reproche,
+
+262
+00:20:17,950 --> 00:20:21,113
+c'est de risquer ta vie
+aussi facilement !
+
+263
+00:20:22,120 --> 00:20:23,018
+Mais...
+
+264
+00:20:23,956 --> 00:20:25,583
+Je voulais vite lui venir en aide.
+
+265
+00:20:30,662 --> 00:20:33,187
+Mikasa, tu te souviens de moi ?
+
+266
+00:20:34,399 --> 00:20:37,425
+On s'est vus plusieurs fois
+quand tu étais petite.
+
+267
+00:20:40,272 --> 00:20:41,933
+Docteur Jäger,
+
+268
+00:20:42,474 --> 00:20:46,911
+où est-ce que je peux rentrer,
+désormais ?
+
+269
+00:20:49,348 --> 00:20:50,508
+J'ai froid.
+
+270
+00:20:51,950 --> 00:20:55,647
+Je n'ai plus d'endroit où rentrer.
+
+271
+00:21:07,466 --> 00:21:09,127
+Je te la donne.
+
+272
+00:21:12,971 --> 00:21:14,131
+C'est chaud, hein ?
+
+273
+00:21:20,979 --> 00:21:22,003
+C'est chaud.
+
+274
+00:21:23,482 --> 00:21:26,542
+Mikasa,
+viens habiter avec nous.
+
+275
+00:21:27,185 --> 00:21:28,174
+Hein ?
+
+276
+00:21:28,987 --> 00:21:30,545
+Tu as vécu
+des choses douloureuses.
+
+277
+00:21:32,291 --> 00:21:34,623
+Tu as besoin de beaucoup de repos.
+
+278
+00:21:37,996 --> 00:21:38,587
+Quoi ?
+
+279
+00:21:39,564 --> 00:21:41,361
+Dépêchons-nous de rentrer...
+
+280
+00:21:43,135 --> 00:21:44,261
+chez nous.
+
+281
+00:21:49,308 --> 00:21:51,105
+Oui, rentrons.
+
+282
+00:22:06,158 --> 00:22:10,117
+<i>Un monde cruel où seuls les gagnants</i>
+<i>ont le droit de vivre.</i>
+
+283
+00:22:15,500 --> 00:22:16,398
+Ackerman, repli !
+
+284
+00:22:17,169 --> 00:22:18,329
+On monte sur le mur !
+
+285
+00:22:18,537 --> 00:22:20,698
+Je vais en soutien à l'avant-garde !
+
+286
+00:22:21,073 --> 00:22:22,005
+Hé ! Ackerman !
+
+287
+00:22:23,208 --> 00:22:27,144
+<i>Mais dans ce monde,</i>
+<i>j'ai un endroit où rentrer.</i>
+
+288
+00:22:29,681 --> 00:22:34,516
+<i>Eren, tant que tu seras là,</i>
+<i>je pourrai tout faire.</i>
+

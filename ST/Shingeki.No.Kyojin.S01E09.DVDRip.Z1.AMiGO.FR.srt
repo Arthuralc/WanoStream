@@ -1,0 +1,1262 @@
+1
+00:00:02,035 --> 00:00:03,900
+<i>Il y a plus d'un siècle,</i>
+
+2
+00:00:04,904 --> 00:00:07,634
+<i>est apparu</i>
+<i>le prédateur de l'humanité.</i>
+
+3
+00:00:09,809 --> 00:00:14,337
+<i>Il existe entre l'Homme et lui</i>
+<i>une différence de force si colossale,</i>
+
+4
+00:00:15,215 --> 00:00:18,776
+<i>que l'humanité a failli disparaître</i>
+<i>en très peu de temps.</i>
+
+5
+00:00:21,721 --> 00:00:23,188
+<i>Ceux qui ont survécu</i>
+
+6
+00:00:23,757 --> 00:00:27,853
+<i>ont bâti trois murs :</i>
+<i>Maria, Rose, et Sina,</i>
+
+7
+00:00:28,094 --> 00:00:31,291
+<i>qui leur ont permis de vivre</i>
+<i>près d'un siècle en paix.</i>
+
+8
+00:00:31,731 --> 00:00:32,390
+<i>Seulement...</i>
+
+9
+00:02:15,635 --> 00:02:20,334
+<i>Qu'est-il advenu du bras gauche ?</i>
+<i>La lutte pour le district de Trost</i>
+
+10
+00:02:22,242 --> 00:02:24,506
+<i>Si à Trost, l'assaut des titans</i>
+
+11
+00:02:25,078 --> 00:02:27,945
+<i>a fait autant de victimes</i>
+<i>parmi les soldats,</i>
+
+12
+00:02:28,181 --> 00:02:32,083
+<i>c'est en partie à cause de l'absence</i>
+<i>des bataillons d'exploration.</i>
+
+13
+00:02:34,020 --> 00:02:38,889
+<i>Ils étaient partis le matin</i>
+<i>en exploration à l'extérieur des murs.</i>
+
+14
+00:02:39,993 --> 00:02:41,984
+<i>Quelques heures auparavant</i>
+
+15
+00:02:42,328 --> 00:02:45,855
+Il est là ! Le régiment principal
+des bataillons d'exploration !
+
+16
+00:02:46,399 --> 00:02:48,026
+Major Erwin !
+
+17
+00:02:48,201 --> 00:02:50,192
+Débarrassez-nous
+de ces foutus titans !
+
+18
+00:02:50,904 --> 00:02:52,872
+Regarde !
+C'est le caporal-chef Rivaille !
+
+19
+00:02:53,473 --> 00:02:56,203
+Il aurait à lui seul
+la force d'une troupe entière !
+
+20
+00:02:57,010 --> 00:02:58,443
+Vos gueules...
+
+21
+00:02:59,546 --> 00:03:01,537
+S'ils te savaient maniaque,
+
+22
+00:03:02,115 --> 00:03:05,380
+leurs regards plein d'envie
+se transformeraient en désillusion.
+
+23
+00:03:11,591 --> 00:03:14,321
+Les titans nous attendent dehors.
+
+24
+00:03:15,428 --> 00:03:18,488
+Quels titans va-t-on rencontrer,
+cette fois ?
+
+25
+00:03:18,865 --> 00:03:22,961
+Ce serait vraiment génial
+de tomber sur des déviants !
+
+26
+00:03:23,369 --> 00:03:25,564
+Un déviant ? Il y en a un ici.
+
+27
+00:03:26,606 --> 00:03:27,538
+Où ça ?
+
+28
+00:03:29,442 --> 00:03:30,272
+Ici.
+
+29
+00:03:31,311 --> 00:03:32,209
+En avant !
+
+30
+00:03:34,581 --> 00:03:36,071
+<i>L'exploration,</i>
+
+31
+00:03:36,316 --> 00:03:39,513
+<i>mais aussi l'installation de bases</i>
+<i>en vue d'une expansion,</i>
+
+32
+00:03:39,886 --> 00:03:42,411
+<i>les bataillons d'exploration,</i>
+<i>chargés de ces missions,</i>
+
+33
+00:03:42,589 --> 00:03:44,955
+<i>sont le fruit de la sagesse humaine.</i>
+
+34
+00:03:46,025 --> 00:03:50,928
+<i>Grâce à quelques talents,</i>
+<i>leur taux de survie s'est amélioré,</i>
+
+35
+00:03:51,397 --> 00:03:55,356
+<i>mais à chaque envoi de troupes</i>
+<i>sur les terres des titans,</i>
+
+36
+00:03:56,035 --> 00:03:59,163
+<i>on déplore toujours</i>
+<i>plus de 30 % de pertes.</i>
+
+37
+00:04:00,006 --> 00:04:05,239
+<i>Cela montre la différence de force</i>
+<i>entre l'humanité et les titans.</i>
+
+38
+00:04:06,479 --> 00:04:09,346
+Vous verrez...
+
+39
+00:04:10,483 --> 00:04:12,246
+Tôt ou tard, vous...
+
+40
+00:04:14,020 --> 00:04:16,011
+L'humanité vous anéantira !
+
+41
+00:04:16,389 --> 00:04:19,119
+À la fin,
+c'est l'humanité qui survivra !
+
+42
+00:04:25,265 --> 00:04:27,961
+Vous serez tous exterminés...
+
+43
+00:04:29,435 --> 00:04:30,902
+par le caporal-chef Rivaille !
+
+44
+00:04:44,984 --> 00:04:46,076
+Un à droite.
+
+45
+00:04:47,253 --> 00:04:48,277
+Deux à gauche.
+
+46
+00:04:49,122 --> 00:04:51,352
+Caporal-chef !
+J'ai rassemblé les renforts !
+
+47
+00:04:51,624 --> 00:04:54,149
+Petra,
+va soigner le soldat en bas.
+
+48
+00:04:54,594 --> 00:04:56,289
+Tous les autres,
+en soutien sur la droite.
+
+49
+00:04:57,297 --> 00:04:58,662
+Je m'occupe du côté gauche.
+
+50
+00:04:59,632 --> 00:05:00,360
+Caporal-chef !
+
+51
+00:05:11,144 --> 00:05:12,270
+Ça va aller !
+
+52
+00:05:13,079 --> 00:05:15,639
+Je n'ai pas l'intention
+de te faire souffrir.
+
+53
+00:05:20,286 --> 00:05:21,344
+Dommage !
+
+54
+00:05:21,587 --> 00:05:23,054
+Je suis là, maintenant !
+
+55
+00:05:23,256 --> 00:05:24,723
+Et hop !
+
+56
+00:05:27,493 --> 00:05:29,688
+Tu vois, tu n'as pas souffert.
+
+57
+00:05:31,431 --> 00:05:33,160
+Dites donc, tous les deux...
+
+58
+00:05:37,236 --> 00:05:39,329
+vous avez des têtes de comiques.
+
+59
+00:05:54,687 --> 00:05:56,211
+Attention, reste tranquille.
+
+60
+00:05:57,357 --> 00:05:59,222
+Sinon, je ne pourrai pas...
+
+61
+00:06:01,260 --> 00:06:02,727
+te lacérer convenablement.
+
+62
+00:06:14,273 --> 00:06:15,399
+C'est dégueulasse.
+
+63
+00:06:25,351 --> 00:06:26,215
+Caporal-chef !
+
+64
+00:06:26,552 --> 00:06:29,043
+L'hémorragie ne s'arrête pas.
+
+65
+00:06:32,792 --> 00:06:34,623
+Caporal-chef...
+
+66
+00:06:39,465 --> 00:06:40,261
+Oui ?
+
+67
+00:06:43,369 --> 00:06:49,205
+Est-ce que j'ai été
+utile à l'humanité ?
+
+68
+00:06:51,444 --> 00:06:52,376
+Ou alors...
+
+69
+00:06:53,312 --> 00:06:57,248
+vais-je mourir
+sans avoir servi à rien ?
+
+70
+00:07:01,687 --> 00:07:03,712
+Tu nous as été grandement utile.
+
+71
+00:07:04,590 --> 00:07:07,150
+Et tu l'es toujours.
+
+72
+00:07:08,361 --> 00:07:12,195
+La volonté que tu laisses
+va me donner de la force.
+
+73
+00:07:14,167 --> 00:07:18,729
+Je te le promets !
+Je jure d'exterminer les titans !
+
+74
+00:07:21,641 --> 00:07:22,335
+Caporal-chef...
+
+75
+00:07:23,843 --> 00:07:25,435
+il est déjà...
+
+76
+00:07:30,783 --> 00:07:33,843
+Tu crois qu'il m'a écouté
+jusqu'au bout ?
+
+77
+00:07:34,487 --> 00:07:37,183
+Il vous a sûrement entendu.
+
+78
+00:07:37,824 --> 00:07:42,227
+Regardez, il a l'air paisible.
+
+79
+00:07:44,797 --> 00:07:45,695
+Tant mieux.
+
+80
+00:07:47,900 --> 00:07:48,798
+Rivaille !
+
+81
+00:07:50,470 --> 00:07:51,198
+On se replie !
+
+82
+00:07:52,572 --> 00:07:55,769
+On se replie ?
+On aurait pu aller plus loin.
+
+83
+00:07:56,676 --> 00:07:57,870
+Mon soldat est mort pour rien ?
+
+84
+00:07:58,744 --> 00:08:01,713
+Des titans se dirigent
+ensemble vers la ville.
+
+85
+00:08:05,318 --> 00:08:07,343
+C'est comme il y a cinq ans.
+
+86
+00:08:07,520 --> 00:08:09,351
+Il se passe quelque chose en ville.
+
+87
+00:08:09,522 --> 00:08:12,286
+Le mur a peut-être été détruit.
+
+88
+00:08:15,294 --> 00:08:16,352
+Merde...
+
+89
+00:08:20,299 --> 00:08:21,288
+Merde !
+
+90
+00:08:51,597 --> 00:08:52,586
+<i>C'est...</i>
+
+91
+00:08:52,932 --> 00:08:54,399
+<i>C'est pas possible...</i>
+
+92
+00:08:55,701 --> 00:08:58,329
+<i>On n'est pas les mêmes</i>
+<i>qu'il y a cinq ans.</i>
+
+93
+00:08:59,272 --> 00:09:00,637
+<i>On s'est durement entraînés.</i>
+
+94
+00:09:01,440 --> 00:09:02,771
+<i>On a durement réfléchi...</i>
+
+95
+00:09:05,211 --> 00:09:06,906
+<i>pour pouvoir gagner contre eux,</i>
+
+96
+00:09:08,381 --> 00:09:10,474
+<i>pour ne pas se faire prendre.</i>
+
+97
+00:09:11,417 --> 00:09:12,406
+Ça brûle...
+
+98
+00:09:13,619 --> 00:09:14,779
+Ça brûle !
+
+99
+00:09:15,888 --> 00:09:16,718
+À l'aide !
+
+100
+00:09:17,957 --> 00:09:19,254
+Maman...
+
+101
+00:09:20,660 --> 00:09:21,718
+Maman...
+
+102
+00:09:24,864 --> 00:09:25,831
+<i>Maman...</i>
+
+103
+00:09:30,336 --> 00:09:31,325
+<i>Maman...</i>
+
+104
+00:09:34,240 --> 00:09:35,298
+À l'aide !
+
+105
+00:09:37,643 --> 00:09:38,871
+<i>Pourquoi ?</i>
+
+106
+00:09:39,812 --> 00:09:42,610
+<i>Pourquoi ils nous les prennent ?</i>
+
+107
+00:09:43,683 --> 00:09:44,615
+<i>Nos vies...</i>
+
+108
+00:09:45,418 --> 00:09:46,442
+<i>Nos rêves...</i>
+
+109
+00:09:48,588 --> 00:09:49,612
+Pourquoi ?
+
+110
+00:09:56,696 --> 00:09:59,221
+Merde, merde et merde !
+
+111
+00:10:00,967 --> 00:10:02,935
+Je ne peux pas abandonner !
+
+112
+00:10:03,669 --> 00:10:05,000
+Je vais vous exterminer !
+
+113
+00:10:05,805 --> 00:10:07,432
+Tous jusqu'au dernier !
+
+114
+00:10:08,975 --> 00:10:12,001
+De mes propres mains !
+
+115
+00:11:07,333 --> 00:11:09,028
+<i>Je vais vous exterminer</i>
+
+116
+00:11:10,770 --> 00:11:11,998
+<i>de ce monde !</i>
+
+117
+00:11:16,509 --> 00:11:18,534
+<i>Tous jusqu'au dernier !</i>
+
+118
+00:11:25,818 --> 00:11:26,978
+<i>Encore plus !</i>
+
+119
+00:11:27,687 --> 00:11:28,711
+<i>Encore !</i>
+
+120
+00:11:29,755 --> 00:11:31,347
+<i>Je vais en tuer encore plus !</i>
+
+121
+00:11:31,524 --> 00:11:32,616
+<i>Je veux les tuer !</i>
+
+122
+00:11:36,062 --> 00:11:37,324
+<i>Encore plus...</i>
+
+123
+00:11:38,097 --> 00:11:39,462
+<i>En masse !</i>
+
+124
+00:11:39,932 --> 00:11:40,864
+Je vais vous tuer.
+
+125
+00:11:46,038 --> 00:11:46,936
+Eren ?
+
+126
+00:12:00,753 --> 00:12:01,685
+Eren !
+
+127
+00:12:02,955 --> 00:12:04,980
+Eren ! Tu peux bouger ?
+
+128
+00:12:05,758 --> 00:12:07,089
+Tu as repris tes esprits ?
+
+129
+00:12:07,460 --> 00:12:11,396
+Tu dois dire tout ce que tu sais,
+ils comprendront sûrement !
+
+130
+00:12:13,099 --> 00:12:16,364
+- Armin ?
+- Vous entendez ? Il veut nous tuer.
+
+131
+00:12:17,737 --> 00:12:21,468
+Oui, j'ai bien entendu.
+Il a l'intention de tous nous bouffer.
+
+132
+00:12:22,908 --> 00:12:24,842
+<i>Mais qu'est-ce qu'ils racontent ?</i>
+
+133
+00:12:26,112 --> 00:12:29,479
+<i>C'est contre nous</i>
+<i>qu'ils dirigent leurs armes ?</i>
+
+134
+00:12:30,883 --> 00:12:33,852
+<i>Ce sont des armes</i>
+<i>qui servent à tuer les titans !</i>
+
+135
+00:12:35,087 --> 00:12:37,647
+<i>Pourquoi ils me regardent comme ça ?</i>
+
+136
+00:12:39,425 --> 00:12:41,985
+<i>Qu'est-ce que ça veut dire ?</i>
+
+137
+00:12:43,629 --> 00:12:44,755
+<i>Les bataillons d'exploration actuels</i>
+
+138
+00:12:44,930 --> 00:12:46,659
+<i>Le principal objectif</i>
+<i>des bataillons d'exploration est</i>
+
+139
+00:12:46,832 --> 00:12:48,390
+<i>d'aller enquêter</i>
+<i>à l'extérieur des murs.</i>
+
+140
+00:12:48,567 --> 00:12:51,468
+<i>Cependant, la nature de leur activité</i>
+<i>n'est plus la même qu'avant la chute du mur Maria.</i>
+
+141
+00:12:51,637 --> 00:12:55,471
+<i>Depuis la chute, leur activité consiste à créer</i>
+<i>une base de logistique militaire</i>
+
+142
+00:12:55,641 --> 00:12:57,472
+<i>en vue de la deuxième opération</i>
+<i>de reconquête du mur Maria</i>
+
+143
+00:12:57,643 --> 00:12:59,474
+<i>et d'établir un itinéraire</i>
+<i>pour le déplacement</i>
+<i>d'armées importantes.</i>
+
+144
+00:13:04,917 --> 00:13:08,853
+<i>À l'intérieur du mur Rose</i>
+Jeunes recrues, tenez-vous prêts
+et attendez les ordres !
+
+145
+00:13:10,089 --> 00:13:13,183
+Et puis, on a réussi à choper du gaz
+
+146
+00:13:13,559 --> 00:13:15,720
+et à évacuer le district de Trost.
+
+147
+00:13:17,463 --> 00:13:18,657
+C'est incroyable.
+
+148
+00:13:19,498 --> 00:13:20,522
+Désolée.
+
+149
+00:13:20,800 --> 00:13:24,201
+Je me suis proposée plusieurs fois
+pour aider au ravitaillement mais...
+
+150
+00:13:24,770 --> 00:13:28,206
+Nous qui avions pourtant réussi
+à assurer les réserves de gaz.
+
+151
+00:13:28,841 --> 00:13:33,210
+Mais alors, tous ceux
+qui ne sont pas là sont...
+
+152
+00:13:34,180 --> 00:13:34,874
+Oui.
+
+153
+00:13:37,016 --> 00:13:38,176
+Mikasa aussi ?
+
+154
+00:13:39,151 --> 00:13:43,952
+Non, je croyais que Mikasa était venue
+en retard avec Jean et les autres.
+
+155
+00:13:44,623 --> 00:13:47,854
+Jean, ne me dis pas
+que Mikasa a été blessée ?
+
+156
+00:13:49,862 --> 00:13:51,796
+Hé, qu'est-ce qui se passe ?
+
+157
+00:13:57,803 --> 00:14:00,704
+On est tenus
+au secret professionnel.
+
+158
+00:14:01,707 --> 00:14:02,503
+Je peux rien dire.
+
+159
+00:14:02,675 --> 00:14:04,939
+- Au secret professionnel ?
+- C'est quoi, ça ?
+
+160
+00:14:05,110 --> 00:14:08,637
+De toute façon,
+on ne pourra pas le cacher longtemps.
+
+161
+00:14:09,215 --> 00:14:12,116
+L'humanité tout entière
+sera bientôt au courant.
+
+162
+00:14:14,086 --> 00:14:17,214
+Enfin, si l'humanité existe encore.
+
+163
+00:14:19,892 --> 00:14:22,952
+Faire un mur protecteur
+avec les corps des titans,
+
+164
+00:14:23,295 --> 00:14:24,990
+c'est une bonne idée.
+
+165
+00:14:26,031 --> 00:14:28,829
+Mais il faut être vigilant.
+
+166
+00:14:29,869 --> 00:14:35,136
+Ici, c'est le front de bataille,
+mais aussi le bord du précipice.
+
+167
+00:14:36,308 --> 00:14:38,276
+- Que se passe-t-il ?
+- Rien.
+
+168
+00:14:39,144 --> 00:14:41,169
+Ça ne concerne pas ma mission.
+
+169
+00:14:41,847 --> 00:14:45,248
+Je me demande juste si mes camarades
+de l'avant-garde sont sains et saufs.
+
+170
+00:14:46,051 --> 00:14:48,849
+Tout à l'heure, le messager
+qui se rendait au siège était pâle.
+
+171
+00:14:49,855 --> 00:14:50,617
+Oui.
+
+172
+00:14:51,056 --> 00:14:53,217
+Mais comme
+lors des premiers entraînements,
+
+173
+00:14:53,592 --> 00:14:55,890
+concentrons-nous
+sur la contre-offensive.
+
+174
+00:14:57,129 --> 00:15:01,293
+Les trois enfants qui se sont échappés
+avec vous il y a cinq ans
+
+175
+00:15:01,667 --> 00:15:03,567
+sont maintenant jeunes recrues.
+
+176
+00:15:04,136 --> 00:15:05,262
+Ils sont à l'avant-garde ?
+
+177
+00:15:06,272 --> 00:15:06,931
+Oui.
+
+178
+00:15:08,340 --> 00:15:11,207
+Excusez-moi,
+je n'aurais pas dû en parler.
+
+179
+00:15:11,610 --> 00:15:12,668
+Ils vont bien.
+
+180
+00:15:13,646 --> 00:15:17,639
+Ces enfants sont forts.
+Ils ont tous un atout pour survivre.
+
+181
+00:15:18,117 --> 00:15:20,244
+L'un excelle au combat.
+
+182
+00:15:20,953 --> 00:15:23,046
+L'autre est téméraire.
+
+183
+00:15:23,622 --> 00:15:26,887
+Et le dernier est
+particulièrement intelligent.
+
+184
+00:15:27,860 --> 00:15:30,693
+Ils n'ont rien,
+je suis sûr qu'ils sont en vie.
+
+185
+00:15:32,298 --> 00:15:36,098
+Jeune recrue Jäger !
+Mais aussi Ackerman et Arlelt !
+
+186
+00:15:36,835 --> 00:15:39,827
+Vous êtes en train
+de commettre un acte de rébellion !
+
+187
+00:15:40,739 --> 00:15:43,105
+Je vais devoir
+décider de votre sort !
+
+188
+00:15:45,144 --> 00:15:48,307
+Si jamais vous essayez de me duper,
+ou de bouger,
+
+189
+00:15:49,014 --> 00:15:52,745
+j'ordonne qu'on vous tire dessus
+sur-le-champ, sans hésiter !
+
+190
+00:15:53,252 --> 00:15:54,082
+Quoi ?
+
+191
+00:15:54,620 --> 00:15:55,746
+Je te le demande franchement !
+
+192
+00:15:56,388 --> 00:15:58,151
+Qui es-tu vraiment ?
+
+193
+00:15:59,325 --> 00:16:01,793
+Un humain ? Un titan ?
+
+194
+00:16:04,063 --> 00:16:05,724
+<i>C'est quoi, cette question ?</i>
+
+195
+00:16:06,932 --> 00:16:08,593
+<i>Et c'est quoi ce regard ?</i>
+
+196
+00:16:09,935 --> 00:16:12,597
+<i>On dirait qu'il regarde un monstre.</i>
+
+197
+00:16:14,139 --> 00:16:15,606
+<i>Je suis un monstre ?</i>
+
+198
+00:16:17,142 --> 00:16:19,610
+Je ne comprends pas votre question !
+
+199
+00:16:20,746 --> 00:16:25,012
+Il fait l'ignorant ?
+Sale monstre ! Essaie pour voir !
+
+200
+00:16:25,718 --> 00:16:28,778
+Je te réduirai en miettes !
+En un instant !
+
+201
+00:16:28,954 --> 00:16:31,013
+Sans que tu puisses montrer
+ton vrai visage !
+
+202
+00:16:31,824 --> 00:16:34,952
+- Mon vrai visage ?
+- On est nombreux à l'avoir vu !
+
+203
+00:16:35,995 --> 00:16:40,091
+On t'a vu sortir
+du corps d'un titan !
+
+204
+00:16:41,033 --> 00:16:44,662
+L'humanité a laissé pénétrer
+un individu louche
+
+205
+00:16:44,937 --> 00:16:47,405
+dans l'enceinte du mur Rose !
+
+206
+00:16:48,707 --> 00:16:52,666
+Même si vous faisiez partie
+des recrues sélectionnées par le Roi,
+
+207
+00:16:53,012 --> 00:16:55,640
+il convient d'éliminer
+le risque rapidement !
+
+208
+00:16:56,248 --> 00:16:58,045
+Je suis certain
+de ne pas me tromper !
+
+209
+00:16:59,184 --> 00:17:02,745
+Le titan cuirassé,
+qui a cassé le mur Maria,
+
+210
+00:17:02,921 --> 00:17:05,219
+peut apparaître
+d'un moment à l'autre !
+
+211
+00:17:05,858 --> 00:17:09,726
+C'est maintenant que se joue
+le sort de l'humanité !
+
+212
+00:17:10,195 --> 00:17:11,127
+Tu comprends ?
+
+213
+00:17:11,330 --> 00:17:15,824
+Je ne peux pas perdre
+du temps ou des hommes avec toi !
+
+214
+00:17:16,769 --> 00:17:21,263
+J'ordonnerai qu'on vous tire dessus
+sans aucune hésitation !
+
+215
+00:17:21,940 --> 00:17:25,432
+C'est vrai, ils ont clairement
+une attitude rebelle.
+
+216
+00:17:26,311 --> 00:17:29,109
+Et ils ne nous fourniront
+aucune information utile.
+
+217
+00:17:30,082 --> 00:17:33,176
+Vous avez raison, nous perdons
+du temps et des hommes.
+
+218
+00:17:33,952 --> 00:17:36,045
+Capitaine ! Ce sera facile !
+
+219
+00:17:36,889 --> 00:17:39,722
+Il faut le désintégrer
+sous sa forme humaine !
+
+220
+00:17:40,359 --> 00:17:41,951
+Mon talent particulier...
+
+221
+00:17:42,961 --> 00:17:45,361
+c'est découper la chair.
+
+222
+00:17:46,799 --> 00:17:50,166
+Je n'hésiterai pas à en faire usage
+si nécessaire.
+
+223
+00:17:50,469 --> 00:17:53,370
+Si certains d'entre vous
+veulent le tester,
+
+224
+00:17:54,173 --> 00:17:57,142
+alors, qu'ils s'approchent.
+
+225
+00:17:59,044 --> 00:18:00,068
+Capitaine,
+
+226
+00:18:00,245 --> 00:18:04,272
+Mikasa Ackerman s'est occupée
+de l'escorte avec nous.
+
+227
+00:18:05,184 --> 00:18:08,244
+Elle est aussi efficace
+que cent soldats ordinaires.
+
+228
+00:18:08,854 --> 00:18:11,414
+La perdre serait un préjudice
+irréparable pour l'humanité.
+
+229
+00:18:12,024 --> 00:18:14,219
+Mikasa, Armin !
+
+230
+00:18:14,860 --> 00:18:16,418
+- Qu'est-ce que ça veut dire ?
+- Mikasa !
+
+231
+00:18:17,262 --> 00:18:19,230
+Pourquoi te battre contre des hommes ?
+
+232
+00:18:19,398 --> 00:18:22,333
+Où comptes-tu fuir
+dans un si petit lieu ?
+
+233
+00:18:23,502 --> 00:18:25,197
+Peu importe mon adversaire,
+
+234
+00:18:25,938 --> 00:18:28,168
+j'empêcherai Eren de se faire tuer.
+
+235
+00:18:28,474 --> 00:18:30,237
+Pas besoin d'autre raison.
+
+236
+00:18:30,509 --> 00:18:31,737
+Il faut négocier !
+
+237
+00:18:32,177 --> 00:18:34,737
+Personne ne comprend
+la situation actuelle !
+
+238
+00:18:35,314 --> 00:18:37,805
+Seule la peur se transmet
+comme un virus !
+
+239
+00:18:38,884 --> 00:18:41,751
+<i>Je suis le seul à penser</i>
+<i>que je ne suis pas un titan ?</i>
+
+240
+00:18:42,421 --> 00:18:45,219
+<i>Merde !</i>
+<i>Je ne me souviens de rien !</i>
+
+241
+00:18:47,159 --> 00:18:48,387
+<i>Je n'arrive pas à me lever,</i>
+
+242
+00:18:48,560 --> 00:18:50,323
+<i>et si je dis un mot de travers,</i>
+<i>ils vont me tuer.</i>
+
+243
+00:18:51,563 --> 00:18:53,190
+<i>Me faire tuer par des humains ?</i>
+
+244
+00:18:54,032 --> 00:18:55,932
+<i>C'est vraiment trop ridicule !</i>
+
+245
+00:18:57,169 --> 00:18:59,467
+<i>Qu'est-ce qu'ils disent ?</i>
+
+246
+00:19:00,239 --> 00:19:02,764
+<i>Que je suis sorti</i>
+<i>du corps d'un titan ?</i>
+
+247
+00:19:03,308 --> 00:19:05,538
+<i>C'est quoi, ces conneries ?</i>
+<i>Qu'est-ce que ça veut dire ?</i>
+
+248
+00:19:06,445 --> 00:19:08,106
+<i>Ce n'était pas un rêve ?</i>
+
+249
+00:19:10,282 --> 00:19:11,374
+<i>Dans ce cas,</i>
+
+250
+00:19:12,117 --> 00:19:15,553
+<i>ça veut dire que la partie</i>
+<i>sans vêtement a repoussé ?</i>
+
+251
+00:19:16,321 --> 00:19:18,448
+<i>Exactement comme un titan !</i>
+
+252
+00:19:19,491 --> 00:19:22,927
+<i>C'est ridicule...</i>
+<i>Pourquoi moi ?</i>
+
+253
+00:19:23,829 --> 00:19:25,854
+- <i>Pourquoi ?</i>-
+- Je te repose la question !
+
+254
+00:19:26,398 --> 00:19:28,298
+Qui es-tu vraiment ?
+
+255
+00:19:31,570 --> 00:19:34,300
+<i>Bon, je ne dois pas</i>
+<i>me tromper de réponse,</i>
+
+256
+00:19:34,473 --> 00:19:36,907
+<i>ou je ne serai pas le seul à mourir.</i>
+
+257
+00:19:38,076 --> 00:19:40,374
+<i>Oui, depuis toujours...</i>
+
+258
+00:19:42,281 --> 00:19:44,078
+<i>je suis comme vous !</i>
+
+259
+00:19:45,517 --> 00:19:46,848
+Un humain !
+
+260
+00:19:57,462 --> 00:19:58,554
+Je vois.
+
+261
+00:19:59,531 --> 00:20:01,431
+Ne le prends pas mal.
+
+262
+00:20:04,002 --> 00:20:05,435
+Je ne peux pas faire autrement.
+
+263
+00:20:06,338 --> 00:20:08,966
+Personne ne peut prouver...
+
+264
+00:20:11,009 --> 00:20:12,909
+qu'il n'est pas un démon.
+
+265
+00:20:16,615 --> 00:20:17,479
+Eren ! Armin !
+
+266
+00:20:18,383 --> 00:20:19,281
+Par le haut !
+
+267
+00:20:19,451 --> 00:20:20,509
+Arrête !
+
+268
+00:20:27,626 --> 00:20:28,524
+Eren.
+
+269
+00:20:30,529 --> 00:20:35,057
+À mon retour, je te montrerai
+la cave que je gardais secrète.
+
+270
+00:20:38,270 --> 00:20:42,206
+Tu porteras en permanence
+cette clé sur toi.
+
+271
+00:20:43,041 --> 00:20:46,033
+Et à chaque fois
+que tu la regarderas,
+
+272
+00:20:47,379 --> 00:20:50,439
+rappelle-toi que tu dois
+te rendre dans cette cave.
+
+273
+00:20:53,318 --> 00:20:57,448
+Cette piqûre va te causer
+des troubles de la mémoire.
+
+274
+00:20:58,090 --> 00:21:01,184
+Ça ne sert donc à rien
+que je t'explique maintenant.
+
+275
+00:21:02,194 --> 00:21:07,063
+Écoute, tu dois reconquérir
+le mur Maria et aller à la cave.
+
+276
+00:21:08,967 --> 00:21:12,164
+Cette force devrait
+t'être utile à ce moment-là.
+
+277
+00:21:13,939 --> 00:21:17,306
+Leurs souvenirs t'apprendront
+comment t'en servir.
+
+278
+00:21:18,210 --> 00:21:18,972
+Eren !
+
+279
+00:21:21,613 --> 00:21:24,343
+Le jour où tu iras dans cette cave,
+tu apprendras la vérité !
+
+280
+00:21:25,951 --> 00:21:28,283
+La route sera longue et pénible,
+
+281
+00:21:28,453 --> 00:21:30,546
+mais tu dois absolument y aller !
+
+282
+00:21:34,693 --> 00:21:38,060
+Mikasa, Armin...
+Si tu veux tous les sauver,
+
+283
+00:21:38,664 --> 00:21:42,964
+tu devras contrôler cette force !
+
+284
+00:22:09,194 --> 00:22:10,422
+On l'a eu ?
+
+285
+00:22:22,674 --> 00:22:24,039
+C'est...
+
