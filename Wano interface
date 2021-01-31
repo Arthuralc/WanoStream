@@ -1,0 +1,76 @@
+<! DOCTYPE html >
+< html >
+< tête >
+	< title > WanoStream </ title >
+	< meta  charset = " utf-8 " />
+	< link  rel = " stylesheet " type = " text / css " href = " css / styles.css " >
+	< link  rel = " preconnect " href = " https://fonts.gstatic.com " >
+	< link  href = " https://fonts.googleapis.com/css2?family=Bree+Serif&display=swap " rel = " stylesheet " >
+	< link  rel = " icon " href = " flavicon.ico " >
+</ tête >
+< corps >
+	<en- tête >
+		< img  class = " logo " src = " img / logo.png " width = " 500 " >
+
+	</ header >
+<! --- Menu de Navigation --->
+	< centre >
+		< nav  class = " menu-nav " >
+				< ul >
+					< li  class = " btn " >
+						< A  href = " index.html " >
+						Accueil
+					</ a >
+					</ li >
+					< li  class = " btn " >
+						< A  href = " actualités.html " >
+							VF
+						</ a >
+					</ li >
+					< li  class = " btn " >
+						< A  href = " VOSTFR.html " >
+							VOSTFR
+						</ a >
+					</ li >
+					< li  class = " btn " >
+						< A  href = " FILMS.html " >
+							FILMS
+						</ a >
+					</ li >
+					< li  class = " btn " >
+						< A  href = " boutique.html " >
+							Boutique
+						</ a >
+					</ li >
+					< li  class = " btn " >
+						< A  href = " opening.html " >
+							Opening
+						</ a >
+					</ li >		
+				</ ul >
+			</ nav >
+	</ center >
+
+	< iframe  src = " https://streamtape.com/e/Y8adPyGz1Zf243/ " frameborder = " 0 " marginwidth = " 0 " marginheight = " 0 " scrolling = " no " width = " 960 " height = " 540 " allowfullscreen > </ iframe >
+	< pied de page >
+		 Copyright & copie; WanoStream 2021
+	</ footer >	
+	< style >
+		iframe {
+			marge supérieure : 150 px ;
+			affichage : bloc;
+			marge gauche : auto;
+			marge droite : auto;
+			-moz-border-radius : 500 px ;
+    		-webkit-border-radius : 500 px ;
+			rayon de la bordure : 10 px ;		
+		}
+		pied de page {
+			margin-top : 200 px ;
+		}
+
+	</ style >
+
+
+</ corps >
+</ html >
