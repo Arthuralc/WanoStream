@@ -7,7 +7,7 @@ body{
 }*/
 
 .menu-nav{
-	position: center;
+	position: relative;
 }
 .menu-nav ul li.btn{
 	display: inline-block;
@@ -37,9 +37,25 @@ body{
 	margin-right: auto;
 }
 
+#search{
+		margin-top: 10px;
+		width: 1000px;
+		height: 50px;
+		display: inline-block;
+		-moz-border-radius: 15px;
+    	-webkit-border-radius: 15px;
+		border-radius: 30px;
+		border: 0px solid #232121;
+		background-color: #232121;
+		font-size: 25px;
+		color: white;
+} 	
 
+input {
+	padding-left: 20px;
+}
 #content{
-	margin-top: 150px;
+	margin-top: 50px;
 	text-align:center;
 
 }
