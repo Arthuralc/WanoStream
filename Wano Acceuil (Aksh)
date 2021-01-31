@@ -1,0 +1,80 @@
+<! DOCTYPE html >
+< html >
+< tête >
+	< title > WanoStream </ title >
+	< meta  charset = " utf-8 " />
+	< link  rel = " stylesheet " type = " text / css " href = " css / styles.css " >
+	< link  rel = " preconnect " href = " https://fonts.gstatic.com " >
+	< link  href = " https://fonts.googleapis.com/css2?family=Bree+Serif&display=swap " rel = " stylesheet " >
+	< link  rel = " icon " href = " flavicon.ico " >
+</ tête >
+< corps >
+	<en- tête >
+		< img  class = " logo " src = " img / logo.png " width = " 500 " >
+
+	</ header >
+<! --- Menu de Navigation --->
+	< centre >
+		< nav  class = " menu-nav " >
+				< ul >
+					< li  class = " btn " >
+						< A  href = " # " >
+						Accueil
+					</ a >
+					</ li >
+					< li  class = " btn " >
+						< A  href = " actualités.html " >
+							VF
+						</ a >
+					</ li >
+					< li  class = " btn " >
+						< A  href = " VOSTFR.html " >
+							VOSTFR
+						</ a >
+					</ li >
+					< li  class = " btn " >
+						< A  href = " FILMS.html " >
+							FILMS
+						</ a >
+					</ li >
+					< li  class = " btn " >
+						< A  href = " boutique " >
+							Boutique
+						</ a >
+					</ li >
+				</ ul >
+			</ nav >
+	</ center >
+<! --- Barre de Recherche --->
+	< centre >
+		< input  type = " search " id = " search " value = "" onchange = " ouvrirpage () " placeholder = " Recherchez un animé ... " autocomplete = " off " >
+	</ center >
+<! --- Contenu --->
+	< div  id = " content " >
+		< Une  classe = " série " href =" OP.html " > < img  src =" img / OP.jpg " width =" 250 " > </ a >
+		< A  class = " série " href =" SNK.html " > < img  src =" img / SNKS4.jpg " alt = SNK  largeur =" 250 " > </ a >
+		< Une  classe = " série " href =" JJK.html " > < img  src =" img / JJK.jpg " width =" 250 " > </ a >
+		</ br > </ br >
+		< Une  classe = " série " href =" MP100.html " > < img  src =" img / MP100.jpg " width =" 250 " > </ a >
+		< Une  classe = " série " href =" KNY.html " > < img  src =" img / KNY.jpg " width =" 250 " > </ a >
+		< Une  classe = " série " href =" OPM.html " > < img  src =" img / OPM.jpg " width =" 250 " > </ a >
+		</ br > </ br >
+		< A  class = " série " href =" FMAB.html " > < img  src =" img / FMAB.jpg " alt = SNK  largeur =" 250 " > </ a >
+		< Une  classe = " série " href =" HXH.html " > < img  src =" img / HXH.jpg " width =" 250 " > </ a >
+		< Une  classe = " série " href =" BC.html " > < img  src =" img / BC.jpg " width =" 250 " > </ a >	
+		</ br > </ br >
+		< Une  classe = " série " href =" TPN.html " > < img  src =" img / TPN.jpg " width =" 250 " > </ a >
+		< Une  classe = " série " href =" DS.html " > < img  src =" img / DRS.jpeg " width =" 250 " > </ a >
+		< Une  classe = " série " href =" MHA.html " > < img  src =" img / MHA.jpg " width =" 250 " > </ a >
+	</ div >
+<! --- Pied de Page --->
+< pied de page >
+	 Copyright & copie; WanoStream 2021
+</ footer >
+< style >
+	pied de page {
+		margin-top : 250 px ;
+	}
+</ style >	
+</ corps >
+</ html >
